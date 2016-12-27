@@ -23,7 +23,7 @@
   },
   "homepage": "https://paulmakescards.com",
   "dependencies": {
-    "body-parser": "^1.13.3",
-    "express": "^4.13.3"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
   }
 }
