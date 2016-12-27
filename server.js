@@ -13,7 +13,7 @@ var server = app.listen(process.env.PORT || 8080, function () {
 });
 
 
-app.post("/payment", function(req, res) {
+app.get("/", function(req, res) {
   res.status(200).json({"foo: bar"});
   console.log("payment");
 });
