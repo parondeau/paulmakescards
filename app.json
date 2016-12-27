@@ -1,0 +1,7 @@
+{
+  "name": "Paul Makes Cards",
+  "description": "A website where people can request custom cards to be made.",
+  "repository": "https://github.com/parondeau/paulmakescards",
+  "logo": "http://lorempixel.com/250/512/cats",
+  "keywords": ["node", "REST", "API"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Paul Makes Cards",
+  "version": "1.0.0",
+  "description": "A website where people can request custom cards to be made.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parondeau/paulmakescards"
+  },
+  "keywords": [
+    "MEAN",
+    "Express",
+    "Angular"
+  ],
+  "author": "Paul Rondeau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parondeau/paulmakescards/issues"
+  },
+  "homepage": "https://paulmakescards.com",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
