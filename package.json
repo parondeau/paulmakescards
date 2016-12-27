@@ -1,5 +1,5 @@
 {
-  "name": "Paul Makes Cards",
+  "name": "PaulMakesCards",
   "version": "1.0.0",
   "description": "A website where people can request custom cards to be made.",
   "main": "server.js",
